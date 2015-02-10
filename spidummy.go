@@ -1,6 +1,6 @@
 // +build !linux
 
-package rfm69
+package spidev
 
 // SPIDevice is a device
 type SPIDevice struct {

@@ -1,4 +1,4 @@
-package rfm69
+package spidev
 
 /*
 #include <stdint.h>
